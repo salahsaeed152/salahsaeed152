@@ -20,7 +20,7 @@
 ### Top Deal
 It is a mobile application that provides you tons of promotions and offers with special discounts from almost all vendors and stores, you can redeem the discount or the offer directly free of charge by clicking on the offer.
 Tools used: Provider State Management - Shared Preferences - Local storage - MVVM architecture pattern.
-<p><a href="[https://play.google.com/store/apps/details?id=com.m3maly.app](https://play.google.com/store/apps/details?id=com.josequal.topdeal&gl=US)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="[https://apps.apple.com/eg/app/%D9%85%D8%B9%D9%85%D9%84%D9%8A/id1660000465](https://apps.apple.com/us/app/top-deal-app/id1632945470)" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.josequal.topdeal&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/top-deal-app/id1632945470" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
