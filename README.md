@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Salah Saeed 👋:heart: </h2>
+<h2> Hi there, I'm Salah Saeed 👋 💻</h2>
 
 ![](https://img.shields.io/badge/Software-Engineer-purple)
 
