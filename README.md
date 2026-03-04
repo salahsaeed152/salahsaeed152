@@ -212,11 +212,11 @@ Vacation rental & booking system.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
   &emsp;
-  <a href="https://www.facebook.com/profile.php?id=100004802628175" target="_blank">
+  <a href="https://www.facebook.com/salah.saeed.993300" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32"/>
   </a>
   &emsp;
-  <a href="https://wa.link/wsruhh" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=201013268621&text&type=phone_number" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32"/>
   </a>
 </p>
