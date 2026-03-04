@@ -1,71 +1,222 @@
-<h2> Hi there, I'm Salah Saeed 👋 💻</h2>
+<h1 align="center">Salah Saeed</h1>
+<h3 align="center">
+Senior Flutter Engineer | Clean Architecture Advocate | Scalable Mobile Systems Builder
+</h3>
 
-![](https://img.shields.io/badge/Software-Engineer-purple)
+<p align="center">
+  <img src="https://img.shields.io/badge/Senior-Flutter%20Engineer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Production%20Ready-success?style=for-the-badge"/>
+</p>
 
-<hr>
+---
 
-<h2> Contact with me on </h2>
+# 👨‍💻 Engineering Profile
 
-<!-- <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+Senior Software Engineer specialized in building scalable, production-grade cross-platform applications using Flutter.
 
-- personal email : salahsaeed152@gmail.com
+With 6+ years of experience, I focus on:
 
+- Architecting maintainable systems using Clean Architecture & SOLID  
+- Designing modular, testable, and scalable mobile solutions  
+- Performance optimization & memory-efficient state management  
+- High-concurrency transaction systems  
+- Secure authentication & role-based access control  
+- CI/CD automation & release management  
 
-<p><a href="https://wa.link/wsruhh" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100004802628175" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/salah-saeed-061938216/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
+---
 
+# 🧠 Architecture & System Design
 
-<h2> Samples from my projects </h2>
+✔ Clean Architecture (Domain-driven layering)  
+✔ MVVM with clear separation of concerns  
+✔ Feature-based modular structure  
+✔ Dependency Injection patterns  
+✔ Offline-first architecture  
+✔ Real-time systems with WebSockets & Firebase  
+✔ Secure local storage & encrypted persistence  
+✔ Dynamic form engines & configurable workflows  
 
-### Top Deal
-It is a mobile application that provides you tons of promotions and offers with special discounts from almost all vendors and stores, you can redeem the discount or the offer directly free of charge by clicking on the offer.
-Tools used: Provider State Management - Shared Preferences - Local storage - MVVM architecture pattern.
-<p><a href="https://play.google.com/store/apps/details?id=com.josequal.topdeal&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/top-deal-app/id1632945470" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+---
 
-<hr>
+# ⚙️ Core Tech Stack
 
+## 📱 Mobile
+Flutter · Dart · Jetpack Compose  
+Bloc / Cubit · Riverpod · Provider · GetX · Hooks  
 
-### Never wasted
-It is a mobile application that advertise in a smart way.
-offers a unique experience for all, by providing the best advertising for USED bicycles, bike component, and other services that are related in a smart way.
-Tools used: Provider State Management - Shared Preferences - Local storage - MVVM architecture pattern.
-<p><a href="https://play.google.com/store/apps/details?id=com.jo.fluxstore&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/neverwasted/id1614418799" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-  
-<hr>
+## 🔗 Networking
+Dio · RESTful APIs · WebSockets · Socket.IO  
 
+## 🔐 Backend & Cloud
+Firebase (Auth, Firestore, FCM, Crashlytics)  
+Supabase  
+Secure Storage  
 
-### Roots HCM
-Roots HCM is a unique platform designed to suit the needs of organizations of different levels and sizes. Our user community is diverse between end-users of the application and independent modular users. Roots HCM adopts proven best practices but is also configurable to suit any operational and human capital needs. HCM Roots are the result of many years of technology experience and HCM expertise. Built and maintained by our passionate team of innovators and technologists who want you to "Go Global Think Local".
-Tools used: Provider State Management - Shared Preferences - MVVM architecture pattern.
-<p><a href="https://play.google.com/store/apps/details?id=com.roots.www.roots&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.roots.www.roots&gl=US" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+## 🗄 Local Persistence
+Hive · Sqflite · Isar · Shared Preferences  
 
-<hr>
+## 🧪 Testing Strategy
+Unit Testing (flutter_test)  
+Widget Testing · Mockito  
+Feature-level test isolation  
 
+## 🚀 DevOps & Automation
+Git · GitHub Actions · Fastlane · Codemagic  
+Firebase App Distribution  
+Play Store & App Store CI pipelines  
 
-### Orderak
-Orderak is a mobile application, which is intended for users. Users will be able to see different types of shops, food, restaurants, grocery stores and many others.
-Tools used: Getx State Management - Shared Preferences - PayTabs payment gateway - MVVM architecture pattern.
-<p><a href="https://play.google.com/store/apps/details?id=com.josequal.ordrak" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/orderak/id1597713818" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-  
-<hr>
+---
 
+# 🏗 Selected Production Projects
 
-### Orderak Shop
-Orderak Shop is an app store for store owners. Before using this store, the owners of the Application Store must register at the Registered Office of Orderak. They will provide a username and password after successful registration.
-Deliver a lot, and you'll make a lot of money: the more orders you deliver, the
-more money you'll make.
-Tools used: Getx State Management - Shared Preferences - PayTabs payment gateway - MVVM architecture pattern.
-<p><a href="https://play.google.com/store/apps/details?id=com.josequal.orderak.restaurant" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/orderak-shop/id1597662856" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+## 🏢 Roots HCM  
+**Role:** Lead Developer  
 
-<hr>
+Human Capital Management system serving 50+ organizations.
 
+- Designed configurable workflow engine  
+- Implemented role-based access control  
+- Built scalable modular architecture  
+- Integrated Firebase Auth & FCM  
 
-### Orderak Delivery Man
-Orderak Delivery Man is for the delivery man registered in Orderak. You can also
-be an orderak delivery employee. Come to the Orderak point and register as a
-delivery man.
-Tools used: Getx State Management - Shared Preferences - PayTabs payment gateway - MVVM architecture pattern.
-<p><a href="https://play.google.com/store/apps/details?id=orderak.net.delivery" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/orderak-delivery-man/id1597651073" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-  
+<p style="display: flex; gap: 32px; align-items: center;">
+  <a href="https://play.google.com/store/apps/details?id=com.roots.www.roots&gl=US" target="_blank">
+    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="24" height="24" alt="Google Play"/>
+  </a>
+  &emsp;
+  <a href="https://apps.apple.com/eg/app/rootshcm/id1557548640" target="_blank">
+    <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="24" height="24" alt="App Store"/>
+  </a>
+</p>
 
+---
 
+## 💎 Wish Loyalty Program  
+**Role:** Core Engineer  
+
+High-traffic loyalty ecosystem integrating 10+ premium brands.
+
+- Real-time rewards processing  
+- Secure QR-based redemption system  
+- High-concurrency transaction handling  
+- Secure payment gateway integration  
+
+<p style="display: flex; gap: 32px; align-items: center;">
+  <a href="https://play.google.com/store/apps/details?id=com.mozaic.www.wish" target="_blank">
+    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="24" height="24" alt="Google Play"/>
+  </a>
+  &emsp;
+  <a href="https://apps.apple.com/eg/app/wish-loyalty-program/id1224079781" target="_blank">
+    <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="24" height="24" alt="App Store"/>
+  </a>
+</p>
+
+---
+
+## 🔹 Top Deal  
+**Role:** Core Developer  
+**Stack:** Provider · Hive · MVVM · Dio · Deep Linking  
+
+Discount marketplace connecting thousands of users with vendors.
+
+- Offline-first caching using Hive  
+- Deep linking for marketing campaigns  
+- Performance-optimized browsing  
+
+<p style="display: flex; gap: 32px; align-items: center;">
+  <a href="https://play.google.com/store/apps/details?id=com.josequal.topdeal&gl=US" target="_blank">
+    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="24" height="24" alt="Google Play"/>
+  </a>
+  &emsp;
+  <a href="https://apps.apple.com/eg/app/top-deal-app/id1632945470" target="_blank">
+    <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="24" height="24" alt="App Store"/>
+  </a>
+</p>
+
+---
+
+## 🛒 AVIT Fashion  
+**Role:** Core Engineer  
+
+E-commerce platform with advanced media-driven UX.
+
+- Custom video player component  
+- Real-time Firebase support chat  
+- Optimized filtering & state handling  
+
+<p style="display: flex; gap: 32px; align-items: center;">
+  <a href="https://apps.apple.com/eg/app/avit-fashion/id6751163219" target="_blank">
+    <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="24" height="24" alt="App Store"/>
+  </a>
+</p>
+
+---
+
+## 🌍 One Soul  
+**Role:** Lead Engineer  
+
+Geolocation-powered youth & job opportunity platform.
+
+- Google Maps API integration  
+- Firestore-based real-time mentorship chat  
+- Location-aware opportunity matching  
+
+<p style="display: flex; gap: 32px; align-items: center;">
+  <a href="https://play.google.com/store/apps/details?id=com.josequal.one_soul" target="_blank">
+    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="24" height="24" alt="Google Play"/>
+  </a>
+  &emsp;
+  <a href="https://apps.apple.com/us/app/one-soul-platform/id1613708979" target="_blank">
+    <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="24" height="24" alt="App Store"/>
+  </a>
+</p>
+
+---
+
+## 🏡 Dafarm  
+**Role:** Lead Engineer  
+
+Vacation rental & booking system.
+
+- Clean booking domain modeling  
+- OTP-based secure verification  
+- Reduced cart abandonment by 20%  
+
+<p style="display: flex; gap: 32px; align-items: center;">
+  <a href="https://apps.apple.com/us/app/dafarm/id1565613988" target="_blank">
+    <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="24" height="24" alt="App Store"/>
+  </a>
+</p>
+
+---
+
+# 🎯 Engineering Principles
+
+- Write code that scales  
+- Prefer composition over inheritance  
+- Optimize for maintainability over shortcuts  
+- Automate repetitive workflows  
+- Test critical business logic  
+
+---
+
+# 🌐 Connect With Me
+
+📍 Cairo, Egypt  
+📧 salahsaeed152@gmail.com  
+📱 +20 101 326 8621  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/salah-saeed-061938216/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  </a>
+  &emsp;
+  <a href="https://www.facebook.com/profile.php?id=100004802628175" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32"/>
+  </a>
+  &emsp;
+  <a href="https://wa.link/wsruhh" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32"/>
+  </a>
+</p>
